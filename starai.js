@@ -107,7 +107,7 @@ function renderInitialUI() {
     const initialView = document.createElement('div');
     initialView.className = 'initial-view';
     initialView.innerHTML = `
-        <img src="https://files.catbox.moe/krt239.jpg" alt="Logo" class="logo-circle">
+        <img src="https://files.catbox.moe/9jrlbc.jpg" alt="Logo" class="logo-circle">
         <p>Halo! Saya FK AI. Pilih mode di atas atau coba salah satu saran di bawah untuk memulai.</p>
         <div class="suggestion-area">
             <button class="suggestion-btn">Kode Portofolio Simple</button>
