@@ -693,7 +693,7 @@ function createThinkingBlock() {
     thinkingBlock.className = 'thinking-block';
     const header = document.createElement('div');
     header.className = 'thinking-header';
-    header.textContent = 'Waitt yaa Star Lagi mikirr...';
+    header.textContent = 'Waitt yaa FK Lagi mikirr...';
     const thinkingContent = document.createElement('div');
     thinkingContent.className = 'thinking-content';
     header.onclick = () => {
